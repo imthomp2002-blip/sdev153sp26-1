@@ -3,13 +3,13 @@ body { background-color: #90C7E3;
        font-family: Arial, Verdana, sans-serif;
        background-repeat: no-repeat;
 	background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3); }
-Header { background-color: #002171; 
+header { background-color: #002171; 
          color: #FFFFFF;
          font-family: Georgia, serif;
          background-image: url(sunset.jpg); 
-	  background-position: right;
-	  background-repeat: no-repeat;
-	  height: 72px; }
+	    background-position: right;
+	    background-repeat: no-repeat;
+	    height: 72px; }
 main { padding-left: 2em;
        padding-right: 2em;
        display: block; }
